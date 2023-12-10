@@ -1,0 +1,2 @@
+git.txt
+this is a normal file
